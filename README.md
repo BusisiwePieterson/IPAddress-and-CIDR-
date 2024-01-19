@@ -35,5 +35,7 @@ What is ##Classful Addressing##? Classful addressing is a network addressing the
 ![images](images/ip_Class-1.png)
 
 
-##Let's see each of the network classes in detail:##
+#### Let's see each of the network classes in detail:
+
     - 
+ 
